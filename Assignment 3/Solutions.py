@@ -16,6 +16,7 @@ Example: Input: "john doe", Output: "J.D."
 
 
 
+
 """
 3.Write a Python program to check if a given string is a palindrome. A palindrome reads the same forwards
 and backward (e.g., "radar", "level"). Hint: Compare the string with its reverse.
